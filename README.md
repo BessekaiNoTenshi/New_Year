@@ -1,2 +1,1 @@
-# NEW-YEAR
-# NEW-YEAR
+This repository contains a timer until the new year, created using HTML technology.
